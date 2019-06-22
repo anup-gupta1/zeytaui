@@ -1,0 +1,21 @@
+.navbar-container{
+    padding:16px 96px;
+    box-shadow:0px 1px 1px #c6c6c2;
+}
+
+.active-item{
+    font-size: 36px
+}
+
+.text-2{
+    color:#f2f213
+}
+
+.text-rem{
+    color:#51514b;
+}
+
+
+.right-navbar-item{
+    margin-left: 24px
+}

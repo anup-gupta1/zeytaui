@@ -14,3 +14,12 @@
 .align-items-center{
   align-items: center;
 }
+
+
+.justify-content-between{
+  justify-content: space-between;
+}
+
+.text-bold{
+  font-weight: bold;
+}
